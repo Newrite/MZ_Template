@@ -6,15 +6,15 @@
         ["cmake#31fecfc4"] = {
             repo = {
                 branch = "master",
-                commit = "2a40e4b0e57fa3231195238ed984000a8100aa70",
+                commit = "cb514d2b8dadc7abbc862efa77012bdde577bebb",
                 url = "https://github.com/xmake-io/xmake-repo.git"
             },
-            version = "3.24.2"
+            version = "3.25.1"
         },
-        ["commonlibsse-ng#6cab6700"] = {
+        ["commonlibsse-ng#20cfb5c0"] = {
             repo = {
                 branch = "master",
-                commit = "2a40e4b0e57fa3231195238ed984000a8100aa70",
+                commit = "cb514d2b8dadc7abbc862efa77012bdde577bebb",
                 url = "https://github.com/xmake-io/xmake-repo.git"
             },
             version = "v3.7.0"
